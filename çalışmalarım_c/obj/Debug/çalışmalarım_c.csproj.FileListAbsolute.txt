@@ -1,0 +1,8 @@
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\bin\Debug\çalışmalarım_c.exe.config
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\bin\Debug\çalışmalarım_c.exe
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\bin\Debug\çalışmalarım_c.pdb
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\obj\Debug\çalışmalarım_c.csproj.AssemblyReference.cache
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\obj\Debug\çalışmalarım_c.csproj.SuggestedBindingRedirects.cache
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\obj\Debug\çalışmalarım_c.csproj.CoreCompileInputs.cache
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\obj\Debug\çalışmalarım_c.exe
+C:\Users\sulot\OneDrive\Masaüstü\vs-calismalari\çalışmalarım_c\obj\Debug\çalışmalarım_c.pdb
